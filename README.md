@@ -32,5 +32,5 @@ chmod +x *
 `
 
 <p align="center">
-  <img alt="Layout" src="https://user-images.githubusercontent.com/88379378/173879846-ce39c856-31f8-4edb-9425-3586e94a8c09.png">
+  <img alt="Layout" src="https://user-images.githubusercontent.com/88379378/173880221-842c57d5-b0b3-4f56-8d24-5e94c8fb17ec.png">
 </p>
