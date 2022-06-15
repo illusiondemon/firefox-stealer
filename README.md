@@ -28,9 +28,9 @@ chmod +x *
 <h5 align="center">How To Use<h5>
 
 `
-./build filename https://webhook.com/code
+./builder filename https://webhook.com/code
 `
 
 <p align="center">
-  <img alt="Layout" src="ddos.jpg">
+  <img alt="Layout" src="https://user-images.githubusercontent.com/88379378/173879846-ce39c856-31f8-4edb-9425-3586e94a8c09.png">
 </p>
